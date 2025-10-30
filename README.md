@@ -26,10 +26,7 @@
 
 ### 💼 Projetos em Destaque
 
-🌟 [**Meu Portfólio Pessoal**](#) — Um site responsivo feito com HTML, CSS e JS  
-🐍 [**Mini Aplicativo Python**](#) — Projeto prático usando lógica de programação  
-🎨 [**Landing Page Criativa**](#) — Design moderno e boas práticas de front-end
-
+LOADING
 ---
 
 ### 🌐 Onde me encontrar
