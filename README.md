@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Vitor
 
 💡 **Desenvolvedor Júnior** apaixonado por transformar ideias em código.  
 🎯 Busco constantemente aprimorar minhas habilidades e contribuir com projetos reais.  
@@ -34,9 +34,9 @@
 
 ### 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?logo=firefox&logoColor=white)](https://seusite.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)] 
+[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:vitorperroni@icloud.com)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?logo=firefox&logoColor=white)]()
 
 ---
 
